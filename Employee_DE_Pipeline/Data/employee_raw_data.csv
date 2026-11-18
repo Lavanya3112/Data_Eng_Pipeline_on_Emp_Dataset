@@ -1,0 +1,106 @@
+employee_id,department,experience_years,salary,work_mode,satisfaction_score,gender,education_level
+82,marketing,3,39706,WFH,3,male,Ph.D.
+46,I.T.,13,79108,remote,4,MALE,bachelors
+86,finance,5,42161,Hybrid ,2,MALE,Bachelor's
+45,Information Technology,1,28968,Remote,3,MALE,phd
+86,finance,5,42161,Hybrid ,2,MALE,Bachelor's
+12,it,14,79637,Hybrid ,1,F,Doctorate
+84,SALES,4,38103,Hybrid ,2,Female,Diploma
+100,Fin,8,58864,onsite,4,MALE,Master's
+56,Sales,11,,Hybrid,1,Male,DIP
+87,it,12,74253,Office,5,M,DIP
+68,MARKETING,,70276,Hybrid ,4,male,Bachelor's
+35,Fin,1,31583,Hybrid ,2,,Doctorate
+13,Human Resources,2,31611,Hybrid ,5,Female,Bachelor
+2,sales,11,70727,remote,1,female,phd
+92,IT,11,70738,remote,4,female,BSc
+30,marketing,15,88839,remote,,M,diploma
+78,Sale,1,28840,remote,1,Female,
+6,hr,10,68293,onsite,4,male,phd
+14,Information Technology,15,84723,Office,4,male,bachelors
+21,Human Resources,-1,34538,Onsite,4,Male,Master's
+9,sales,2,30900,Remote,1,Female,Master
+60,Sale,8,60592,Remote,4,Female,masters
+44,Information Technology,9,65869,On-site,,FEMALE,Master
+23,SALES,1,26686,Remote,3,FEMALE,phd
+88,it,7,55972,Hybrid ,1,Male,DIP
+85,Fin,14,85209,onsite,2,F,Bachelor
+26,Information Technology,6,46116,On-site,4,F,PhD
+71,Sale,3,40380,onsite,2,female,BSc
+96,FINANCE,9,60909,hybrid,5,female,BSc
+97,hr,10,62328,Office,5,Male,DIP
+54,hr,8,55256,onsite,3,male,Bachelor
+83,hr,5,42833,Onsite,2,F,Master's
+34,finance,15,86763,On-site,3,Female,Master
+55,Sales,8,57672,WFH,2,Male,Master
+16,I.T.,9,60124,Remote,3,female,Bachelor
+12,it,14,79637,Hybrid ,1,F,Doctorate
+20,I.T.,3,37831,Work from home,4,male,diploma
+10,Human Resources,10,68954,hybrid,4,F,Master's
+1,hr,7,54389,Onsite,5,Female,Diploma
+43,H.R.,12,72460,onsite,4,Male,diploma
+69,MARKETING,5,43837,Hybrid ,2,female,masters
+39,finance,8,57686,onsite,2,M,phd
+67,FINANCE,5,43197,Work from home,2,M,Ph.D.
+74,hr,15,85108,Office,4,MALE,MSc
+4,H.R.,15,86988,Work from home,2,FEMALE,BSc
+53,Fin,12,71088,onsite,5,M,Ph.D.
+65,it,2,32066,On-site,4,female,MSc
+66,it,7,55567,Hybrid,3,FEMALE,BSc
+37,H.R.,9,64431,Work from home,5,MALE,MSc
+49,finance,6,48648,Hybrid,4,Female,Diploma
+18,Sales,-1,65323,hybrid,5,M,DIP
+29,marketing,11,70887,Hybrid ,4,Male,DIP
+51,Sale,12,73166,hybrid,2,female,Ph.D.
+76,SALES,4,45301,Office,1,Male,BSc
+25,sales,9,58870,Office,4,female,phd
+31,sales,8,54574,Onsite,5,Female,masters
+27,I.T.,,56983,On-site,,female,BSc
+52,Marketing,9,60025,Onsite,4,Female,PhD
+70,sales,14,84648,Remote,5,FEMALE,Bachelor's
+77,IT,13,76614,Hybrid,3,F,diploma
+42,sales,3,34892,Office,1,male,BSc
+62,Mktg,9,63316,onsite,4,,diploma
+95,HR,9,,Office,2,F,MSc
+15,finance,10,67384,remote,,male,
+90,Fin,5,48388,Hybrid,3,female,Ph.D.
+98,Sale,10,67645,Onsite,,female,Master's
+88,it,7,55972,Hybrid ,1,Male,DIP
+57,MARKETING,2,34489,Hybrid,4,male,Doctorate
+48,finance,,32292,Hybrid,5,F,Diploma
+41,Fin,5,42178,Hybrid ,4,MALE,diploma
+79,Finance,8,61922,Hybrid ,3,male,Bachelor's
+63,Mktg,14,78877,hybrid,3,Male,BSc
+22,HR,15,83061,On-site,4,F,bachelors
+75,Finance,10,62220,onsite,3,Male,Bachelor's
+40,Fin,7,52213,Work from home,3,Male,Master
+50,SALES,4,40777,Hybrid ,1,F,Bachelor's
+91,Human Resources,8,54699,Hybrid,3,female,PhD
+80,Marketing,11,73606,Onsite,4,M,Master
+8,Information Technology,9,65807,Onsite,4,FEMALE,Bachelor
+2,sales,11,70727,remote,1,female,phd
+5,H.R.,10,62766,Hybrid ,1,F,PhD
+99,Sales,6,48534,hybrid,2,Female,Bachelor's
+33,sales,11,68339,Hybrid,5,Female,Bachelor
+59,FINANCE,8,54423,Office,1,male,masters
+64,Marketing,1,31347,Remote,1,male,diploma
+72,Finance,7,53811,Office,2,Male,PhD
+81,Information Technology,3,40168,WFH,5,F,DIP
+38,marketing,3,36439,On-site,4,Female,Master's
+11,MARKETING,3,40210,Onsite,3,female,phd
+19,MARKETING,15,88881,Hybrid,4,MALE,PhD
+89,Human Resources,2,37699,Work from home,4,male,masters
+47,sales,7,52573,remote,3,Female,diploma
+7,MARKETING,12,77243,remote,1,Male,MSc
+24,IT,3,41636,Hybrid ,2,M,BSc
+94,IT,3,38608,hybrid,3,male,Bachelor's
+58,H.R.,1,28926,WFH,2,MALE,Diploma
+32,Fin,14,83600,remote,1,,Bachelor
+73,Mktg,11,68173,Remote,,female,masters
+93,IT,12,70958,hybrid,2,MALE,Master
+36,IT,15,82532,Onsite,3,M,phd
+3,marketing,6,50623,Work from home,5,F,masters
+61,marketing,14,78341,onsite,4,Male,BSc
+17,Marketing,13,77878,Remote,3,Female,bachelors
+16,I.T.,9,60124,Remote,3,female,Bachelor
+28,FINANCE,9,,Hybrid,2,M,Master's
